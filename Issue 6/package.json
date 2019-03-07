@@ -1,0 +1,14 @@
+{
+  "name": "issue-5",
+  "version": "0.0.0",
+  "description": "Issue 5",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14",
+    "jest": "24.1.0",
+    "jest-editor-support": "25.0.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "issue-5",
+  "version": "0.0.0",
+  "description": "Issue 5",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-typescript": "^7.3.3",
+    "@types/jest": "24.0.9",
+    "jest": "24.1.0",
+    "jest-editor-support": "25.0.1"
+  }
+}

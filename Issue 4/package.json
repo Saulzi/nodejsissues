@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "name": "issue4",
+  "private": true,
+  "devDependencies": {
+    "@types/jest": "24.0.9",
+    "jest": "24.1.0",
+    "jest-editor-support": "25.0.1"
+  }
+}

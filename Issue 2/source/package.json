@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "name": "issue2",
+  "private": true,
+  "devDependencies": {
+    "jest": "24.1.0",
+    "jest-editor-support": "25.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
